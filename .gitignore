@@ -1,0 +1,23 @@
+**__pycache__
+*.pyc
+migrations
+django_subscription/media/
+__pycache__
+/*/*/__pycache__
+/*/__pycache__
+__pycache__
+
+db.sqlite3
+
+subscription-frontend/package-lock.json
+
+# dependencies
+subscription-frontend/node_modules
+/.pnp
+.pnp.js
+
+# testing
+subscription-frontend/coverage
+
+# production
+subscription-frontend/build
